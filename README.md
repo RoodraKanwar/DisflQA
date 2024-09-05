@@ -10,5 +10,5 @@ This repository contains a fine-tuned T5-small model for the Question Rewrite ta
 
 You can use any of the provided notebooks for testing the model on your own dataset. To do so:
 
-Replace the .json file in the raw_datasets directory with your own dataset.
-Run the chosen notebook for training or inference.
+1. Replace the .json file in the raw_datasets directory with your own dataset.
+2. Run the chosen notebook for training or inference.
